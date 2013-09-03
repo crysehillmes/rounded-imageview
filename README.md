@@ -4,7 +4,7 @@ Rounded-ImageView
 a rounded imageview just like the avatar imageview in Google+.
 
 
-=================
+-----------------
 Usage:
 
 <org.cryse.android.controls.RoundedImageView
